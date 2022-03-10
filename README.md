@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thebootable
 - 👀 I’m interested in having fun coding small applications to make my life easier
-- 🌱 I’m currently learning JavaScript and a lot about Authentication
+- 🌱 I’m currently learning JavaScript and a lot about Authentication. I'm studying business informatics, so I'm more fiddling with things than actually doing bigger projects.
 - 💞️ I’m looking to collaborate on Authentication, e.g. OAuth, Authentik and Keycloak
 - 📫 How to reach me: Does GitHub have DMs?
 
